@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "C:\\Users\\wp\\Desktop\\새 폴더",
+      "profile": "offset",
+      "auto_fix_settings": {
+        "auto_convert_rgb": true,
+        "auto_outline_fonts": true,
+        "include_ink_analysis": false
+      },
+      "output_folder": "c:\\Users\\wp\\Desktop\\pdf_quality_checker\\output",
+      "enabled": true,
+      "files_processed": 0,
+      "last_processed": null
+    }
+  ],
+  "last_saved": "2025-06-20T15:27:49.152888"
+}
